@@ -15,3 +15,12 @@ https://blox-land.herokuapp.com/#MRI
 https://blox-land.herokuapp.com/#MRI
 
 <hr>
+
+### EN:  It is also very useful in the following cases:
+### PL:  Jest również bardzo przydatny w niżej przedstawionych przypadkach:
+
+https://github.com/ritaly/python-data-analyst-task/issues/3
+
+https://github.com/LukeBlueLOx/python-data-analyst-task/tree/patch-2/BONUSY
+
+<hr>
