@@ -23,4 +23,8 @@ https://github.com/ritaly/python-data-analyst-task/issues/3
 
 https://github.com/LukeBlueLOx/python-data-analyst-task/tree/patch-2/BONUSY
 
+https://github.com/SCV2PL/SCV2PL.GitHub.IO
+
+https://github.com/SCV2PL/scv2pl-en
+
 <hr>
