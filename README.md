@@ -19,12 +19,16 @@ https://blox-land.herokuapp.com/#MRI
 ### EN:  It is also very useful in the following cases:
 ### PL:  Jest również bardzo przydatny w niżej przedstawionych przypadkach:
 
+https://scv2pl.github.io/scv2pl-en/dash_training_en.html
+
+https://scv2pl.github.io/scv2pl-en/#ZGVSPZ:2021-12-15
+
+https://scv2pl.github.io/scv2pl-en/dash_training_pl.html
+
+https://scv2pl.github.io/#ZGVSPZ:2021-12-15
+
 https://github.com/ritaly/python-data-analyst-task/issues/3
 
 https://github.com/LukeBlueLOx/python-data-analyst-task/tree/patch-2/BONUSY
-
-https://github.com/SCV2PL/SCV2PL.GitHub.IO
-
-https://github.com/SCV2PL/scv2pl-en
 
 <hr>
