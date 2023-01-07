@@ -4,6 +4,8 @@
 
 ### - the presented visualization shows MRI slices of the brain. 
 
+### Tips from the creator of this great visualization 👍🍀☀️🙂✌: https://github.com/LukeBlueLOx/Dash/issues/1
+
 #### If someone has a similar set of MRI - I can try to visualize individual cases: according to the parameters required or specified for the task. It is useful in many areas - for example: for the presentation of x-rays of welded joints.
 https://blox-land.herokuapp.com/#MRI
 
