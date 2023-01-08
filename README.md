@@ -36,7 +36,9 @@ https://github.com/LukeBlueLOx/python-data-analyst-task/tree/patch-2/BONUSY
 <hr>
 
 https://github.com/plotly/plotly.py/blob/master/LICENSE.txt
+
 https://github.com/plotly/dash/blob/dev/LICENSE
+
 ✌💙💚♻️🌌🚀🌎🌍🌏🛰🌌♻️💚💙✌
 
 The MIT License (MIT)
