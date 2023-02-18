@@ -1,4 +1,5 @@
-{"type": "Feature",
+{"type": "FeatureCollection", "features":
+[{"type": "Feature",
  "properties": {"GEO_ID": "0500000US01001",
   "STATE": "01",
   "COUNTY": "001",
